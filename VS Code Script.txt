@@ -1,0 +1,27 @@
+{
+  "editor.fontSize": 20,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "prettier.proseWrap": "always",
+  "editor.codeActionsOnSave": null,
+  "editor.formatOnSave": true,
+  "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
+  "window.zoomLevel": 1,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 10,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.colorTheme": "Andromeda",
+  "liveServer.settings.donotVerifyTags": true,
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "compressed",
+      "extensionName": ".min.css",
+      "savePath": "/css"
+    }
+  ],
+  "liveSassCompile.settings.generateMap": false,
+  "liveSassCompile.settings.autoprefix": [],
+  "workbench.iconTheme": "material-icon-theme",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+}

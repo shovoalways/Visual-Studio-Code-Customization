@@ -3,7 +3,6 @@
   "editor.tabSize": 2,
   "editor.wordWrap": "on",
   "prettier.proseWrap": "always",
-  "editor.codeActionsOnSave": null,
   "editor.formatOnSave": true,
   "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
   "window.zoomLevel": 1,
@@ -20,8 +19,57 @@
     }
   ],
   "liveSassCompile.settings.generateMap": false,
-  "liveSassCompile.settings.autoprefix": [],
   "workbench.iconTheme": "material-icon-theme",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#474787",
+    "editorGroupHeader.tabsBackground": "#2c2c54",
+    "activityBar.background": "#2c2c54",
+    "sideBar.background": "#141422",
+    "minimap.background": "#141422",
+    "tab.activeBackground": "#706fd3",
+    "tab.inactiveBackground": "#191846",
+    "terminal.border": "#2c2c54",
+    "terminal.background": "#2c2c54",
+    "statusBar.background": "#474787",
+    "scrollbarSlider.background": "#474787",
+    "scrollbarSlider.hoverBackground": "#706fd3",
+  },
+  "editor.tokenColorCustomizations": {
+    "comments": "#d4922f"
+  }
 }
+
+
+
+
+
+
+01. Andromeda
+02. Auto Close Tag
+03. Auto Rename Tag
+04. Bracket Pair Colorizer
+05. Debugger for Chrome
+06. Dracula Official
+07. HTML CSS Support
+08. JavaScript (ES6) code snippets
+09. Live Server
+10. Material Icon Theme
+11. Night Owl
+12. Prettier - Code formatter
+13. Shades of Purple
+14. SynthWave '84
+15. WordPress Snippets
+16. Ayu (Theme)
+
+
+
+
+
+https://code.visualstudio.com/api/references/theme-color
+
+
+
+
+

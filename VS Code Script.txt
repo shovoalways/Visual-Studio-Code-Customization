@@ -3,47 +3,50 @@
 ================================*/
 
 {
-  "editor.fontSize": 20,
-  "editor.tabSize": 2,
-  "editor.wordWrap": "on",
-  "prettier.proseWrap": "always",
-  "editor.formatOnSave": true,
-  "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
-  "window.zoomLevel": 1,
-  "files.autoSave": "afterDelay",
-  "files.autoSaveDelay": 10,
-  "liveServer.settings.donotShowInfoMsg": true,
-  "workbench.colorTheme": "Andromeda",
-  "liveServer.settings.donotVerifyTags": true,
-  "liveSassCompile.settings.formats": [
-    {
-      "format": "compressed",
-      "extensionName": ".min.css",
-      "savePath": "/css"
-    }
-  ],
-  "liveSassCompile.settings.generateMap": false,
-  "workbench.iconTheme": "material-icon-theme",
-  "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "workbench.colorCustomizations": {
-    "titleBar.activeBackground": "#474787",
-    "editorGroupHeader.tabsBackground": "#2c2c54",
-    "activityBar.background": "#2c2c54",
-    "sideBar.background": "#141422",
-    "minimap.background": "#141422",
-    "tab.activeBackground": "#706fd3",
-    "tab.inactiveBackground": "#191846",
-    "terminal.border": "#2c2c54",
-    "terminal.background": "#2c2c54",
-    "statusBar.background": "#474787",
-    "scrollbarSlider.background": "#474787",
-    "scrollbarSlider.hoverBackground": "#706fd3",
-  },
-  "editor.tokenColorCustomizations": {
-    "comments": "#d4922f"
+    "editor.fontSize": 20,
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "prettier.proseWrap": "always",
+    "editor.formatOnSave": true,
+    "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
+    "window.zoomLevel": 1,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 10,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.colorTheme": "Andromeda",
+    "liveServer.settings.donotVerifyTags": true,
+    "liveSassCompile.settings.formats": [
+      {
+        "format": "compressed",
+        "extensionName": ".min.css",
+        "savePath": "/css"
+      }
+    ],
+    "liveSassCompile.settings.generateMap": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "workbench.colorCustomizations": {
+      "titleBar.activeBackground": "#474787",
+      "editorGroupHeader.tabsBackground": "#2c2c54",
+      "activityBar.background": "#2c2c54",
+      "sideBar.background": "#141422",
+      "minimap.background": "#141422",
+      "tab.activeBackground": "#706fd3",
+      "tab.inactiveBackground": "#191846",
+      "terminal.border": "#2c2c54",
+      "terminal.background": "#2c2c54",
+      "statusBar.background": "#474787",
+      "scrollbarSlider.background": "#474787",
+      "scrollbarSlider.hoverBackground": "#706fd3",
+    },
+    "editor.tokenColorCustomizations": {
+      "comments": "#d4922f"
+    },
+    "editor.linkedEditing": true,
+    "terminal.integrated.fontSize": 20,
+    "terminal.integrated.fontWeight": null
   }
-}
 
 
 /* References */

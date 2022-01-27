@@ -116,7 +116,8 @@ https://code.visualstudio.com/api/references/theme-color
 09. Material Icon Theme
 10. Prettier - Code formatter
 11. WordPress Snippets
-12. PHP Intelephense
+12. Simple React Snippets
+
 
 
 

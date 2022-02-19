@@ -60,20 +60,35 @@ https://code.visualstudio.com/api/references/theme-color
 ================================*/
 
 {
-  "editor.fontSize": 20,
   "editor.fontFamily": "Operator Mono, Fira Code",
+  "editor.fontSize": 20,
   "editor.tabSize": 2,
   "editor.wordWrap": "on",
   "editor.cursorSmoothCaretAnimation": true,
   "editor.cursorBlinking": "expand",
   "prettier.proseWrap": "always",
   "editor.formatOnSave": true,
-  "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "editor.tokenColorCustomizations": {
+    "comments": "#d4922f"
+  },
+  "editor.linkedEditing": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "editor.guides.bracketPairsHorizontal": true,
+  "editor.hover.enabled": false,
+
   "window.zoomLevel": 1,
   "files.autoSave": "afterDelay",
   "files.autoSaveDelay": 10,
+
+  "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
   "liveServer.settings.donotShowInfoMsg": true,
-  "workbench.colorTheme": "Andromeda Bordered",
   "liveServer.settings.donotVerifyTags": true,
   "liveSassCompile.settings.formats": [
     {
@@ -83,22 +98,20 @@ https://code.visualstudio.com/api/references/theme-color
     }
   ],
   "liveSassCompile.settings.generateMap": false,
+
   "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Andromeda",
+  "workbench.editor.enablePreview": false,
+
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-  // "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.tokenColorCustomizations": {
-    "comments": "#d4922f"
-  },
-  "editor.linkedEditing": true,
   "terminal.integrated.fontSize": 20,
   "terminal.integrated.fontWeight": null,
-  "editor.bracketPairColorization.enabled": true,
-  "editor.guides.bracketPairs": true,
-  "editor.guides.bracketPairsHorizontal": true,
+
   "diffEditor.wordWrap": "on",
-  "workbench.editor.enablePreview": false,
-  "editor.hover.enabled": false
+
+  "bracketPairColorizer.depreciation-notice": false
 }
+
 
 
 

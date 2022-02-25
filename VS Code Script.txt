@@ -74,6 +74,19 @@ https://code.visualstudio.com/api/references/theme-color
   "[html]": {
     "editor.defaultFormatter": "vscode.html-language-features"
   },
+  "workbench.colorCustomizations": {
+    "editorGroupHeader.tabsBackground": "#2c2c54",
+    "activityBar.background": "#2c2c54",
+    "sideBar.background": "#141422",
+    "minimap.background": "#141422",
+    "tab.activeBackground": "#706fd3",
+    "tab.inactiveBackground": "#191846",
+    "terminal.border": "#2c2c54",
+    "terminal.background": "#2c2c54",
+    "statusBar.background": "#474787",
+    "scrollbarSlider.background": "#474787",
+    "scrollbarSlider.hoverBackground": "#706fd3"
+  },
   "editor.tokenColorCustomizations": {
     "comments": "#d4922f"
   },
@@ -109,7 +122,8 @@ https://code.visualstudio.com/api/references/theme-color
 
   "diffEditor.wordWrap": "on",
 
-  "bracketPairColorizer.depreciation-notice": false
+  "bracketPairColorizer.depreciation-notice": false,
+  "security.workspace.trust.untrustedFiles": "open"
 }
 
 

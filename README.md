@@ -83,7 +83,7 @@ I am using Visual Studio code since 2018 and this time I created lots of project
 
 
 ## 🎨 VS Code Themes
-- Andromeda
+- Andromeda 👈
 - Dracula Official
 - Night Owl
 - Shades of Purple

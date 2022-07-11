@@ -34,7 +34,7 @@ I am using Visual Studio code since 2018 and this time I created lots of project
     "scrollbarSlider.hoverBackground": "#706fd3"
   },
   "editor.tokenColorCustomizations": {
-    "comments": "#d4922f"
+    "comments": "#95afc0"
   },
   "editor.linkedEditing": true,
   "editor.bracketPairColorization.enabled": true,

@@ -70,7 +70,6 @@ I am using Visual Studio code since 2018 and this time I created lots of project
 ## ⚙️ VS Code Extension
 - Auto Close Tag
 - Auto Rename Tag
-- Bracket Pair Colorizer
 - Debugger for Chrome
 - HTML CSS Support
 - JavaScript (ES6) code snippets

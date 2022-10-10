@@ -90,6 +90,9 @@ I am using Visual Studio code since 2018 and this time I created lots of project
 - SynthWave '84
 - Ayu (Theme)
 
+## ✒ Font Info
+- [Fira Code](https://fonts.google.com/specimen/Fira+Code)
+- [Operator Mono](https://www.typography.com/fonts/operator/styles)
 
 ## 🧑‍💻 Contributors
 - [@Ali Hossain](https://github.com/shovoalways/)

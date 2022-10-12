@@ -71,6 +71,7 @@ I am using Visual Studio code since 2018 and this time I created lots of project
 - Auto Close Tag
 - Auto Rename Tag
 - Debugger for Chrome
+- indent-rainbow
 - HTML CSS Support
 - JavaScript (ES6) code snippets
 - Live Server

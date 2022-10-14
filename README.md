@@ -91,28 +91,34 @@ I am using Visual Studio code since 2018 and this time I created lots of project
 - Ayu (Theme)
 
 ## 🛠 VS Code Keyboard Shortcuts 
-01. ! To create HTML boilerplate 👉 TAB
-02. Nav>ul>li>a 👉 TAB 
-03. Open the palette to search for a file 👉 Ctrl + P 🍎 cmd + P
-04. Add cursors to all matching selections 👉 Ctrl + Shift + L 🍎 cmd + Shift + L
-05. Undo 👉 Ctrl + U 🍎 cmd + U
-06. Select Current Line 👉 Ctrl + L 🍎 cmd + L
-07. Zen Mode 👉 is distraction free view. 👉 Ctrl + K Z 🍎 cmd + K Z
-08. Toggle Sidebar 👉 Ctrl + B 🍎 cmd + B
-09. Search Global Files 👉 Ctrl + Shift + F 🍎 cmd + Shift + F
-10. Search on file 👉 Ctrl + F 🍎 cmd + F
-11. Find and Replace 👉 Ctrl + H 🍎 cmd + H
-12. Delete the previous Word 👉 Ctrl + Backspace 🍎 cmd + Backspace
-13. Move line up/Down 👉 Alt + up/down arrow  🍎 option + up/down arrow
-14. Add multiple cursors 👉 Ctrl + Alt +up/down arrow 🍎 cmd + option + up/down arrow 
-15. Comment Line 👉 Ctrl + / or Ctrl + K Ctrl + C 🍎 cmd + /
-16. Split View 👉 Ctrl + \ 🍎 cmd +\
-17. Switch Between views 👉 Ctrl +1, Ctrl + 2 .. 🍎 cmd + 1, cmd + 2 
-18. Duplicate Line 👉 Alt + Shift + up/down 🍎 option + Shift + up/down
-19. Navigate to a specific line 👉 Ctrl + g 👉 then line number 🍎 cmd + G
-20. Open Terminal 👉 Ctrl + ` 🍎 cmd + `
-21. To Show suggestion 👉 Ctrl + Space 🍎 cmd + space
-22. Close all open tabs 👉 Ctrl + Shift + W 🍎 cmd + Shift + W
+
+| Keyboard Shortcuts | Windows / Linux     | Mac   |
+| :-------- | :------- | :-------------------------------- |
+|  HTML boilerplate  |  ! + TAB | ! + TAB |
+|  Open the palette to search for a file  | Ctrl + P | cmd + P |
+|  Add cursors to all matching selections  | Ctrl + Shift + L  | cmd + Shift + L |
+|  Undo  |  Ctrl + U | cmd + U |
+|  Select Current Line  | Ctrl + L | cmd + L |
+|  Zen Mode  | Ctrl + K Z | cmd + K Z |
+|  Toggle Sidebar  | Ctrl + B | cmd + B |
+|  Search Global Files  | Ctrl + Shift + F | Ctrl + Shift + F |
+|  Search on file  | Ctrl + F | cmd + F |
+|  Find and Replace  | Ctrl + H | cmd + H |
+|  Delete the previous Word  | Ctrl + Backspace | cmd + Backspace |
+|  Move line up/Down  | Alt + up/down arrow | option + up/down arrow |
+|  Add multiple cursors  | Ctrl + Alt +up/down arrow | cmd + option + up/down arrow |
+|  Comment Line  | Ctrl + / | cmd + / |
+|  Comment Line  | Ctrl + K + Ctrl + C | cmd + K + cmd + C |
+|  Split View  | Ctrl + \  | cmd + \ |
+|  Switch Between views |  Ctrl +1, Ctrl + 2 .. | cmd + 1, cmd + 2 |
+|  Duplicate Line  | Alt + Shift + up/down | option + Shift + up/down |
+|  Navigate to a specific line  | Ctrl + g | cmd + G |
+|  Open Terminal | Ctrl + ` | cmd + ` |
+|  To Show suggestion | Ctrl + Space | cmd + space |
+|  To Close a TAB | Ctrl + W | cmd + W |
+|  To Close all TAB | Ctrl + Shift + W | cmd + Shift + W |
+
+
 
 
 

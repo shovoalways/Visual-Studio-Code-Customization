@@ -90,7 +90,7 @@ I am using Visual Studio code since 2018 and this time I created lots of project
 - SynthWave '84
 - Ayu (Theme)
 
-## 🛠 VS Code Keyboard Shortcuts 
+## 🔑 VS Code Keyboard Shortcuts 
 
 | Keyboard Shortcuts | Windows / Linux     | Mac   |
 | :-------- | :------- | :-------------------------------- |

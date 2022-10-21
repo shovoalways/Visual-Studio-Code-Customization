@@ -80,6 +80,7 @@ I am using Visual Studio code since 2018 and this time I created lots of project
 - Prettier - Code formatter
 - WordPress Snippets
 - Simple React Snippets
+- ES7+ React/Redux/React-Native snippets
 
 
 ## 🎨 VS Code Themes
@@ -114,6 +115,7 @@ I am using Visual Studio code since 2018 and this time I created lots of project
 |  Duplicate Line  | Alt + Shift + up/down | option + Shift + up/down |
 |  Navigate to a specific line  | Ctrl + g | cmd + G |
 |  Open Terminal | Ctrl + ` | cmd + ` |
+|  Open Settings | Ctrl + , | cmd + , |
 |  To Show suggestion | Ctrl + Space | cmd + space |
 |  To Close a TAB | Ctrl + W | cmd + W |
 |  To Close all TAB | Ctrl + Shift + W | cmd + Shift + W |

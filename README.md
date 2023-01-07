@@ -12,14 +12,9 @@ I am using Visual Studio code since 2018 and this time I created lots of project
   "editor.wordWrap": "on",
   "editor.cursorSmoothCaretAnimation": true,
   "editor.cursorBlinking": "expand",
-  "prettier.proseWrap": "always",
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
   "editor.formatOnType": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "[html]": {
-    "editor.defaultFormatter": "vscode.html-language-features"
-  },
   "workbench.colorCustomizations": {
     "editorGroupHeader.tabsBackground": "#2c2c54",
     "activityBar.background": "#2c2c54",
@@ -42,11 +37,11 @@ I am using Visual Studio code since 2018 and this time I created lots of project
   "editor.guides.bracketPairsHorizontal": true,
   "editor.hover.enabled": false,
   "window.zoomLevel": 1,
-  "files.autoSave": "afterDelay",
-  "files.autoSaveDelay": 10,
+  // Live Server 
   "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
   "liveServer.settings.donotShowInfoMsg": true,
   "liveServer.settings.donotVerifyTags": true,
+  // Live SASS Compiler
   "liveSassCompile.settings.formats": [
     {
       "format": "compressed",
@@ -55,16 +50,27 @@ I am using Visual Studio code since 2018 and this time I created lots of project
     }
   ],
   "liveSassCompile.settings.generateMap": false,
+  // VS Code Theme Customization
   "workbench.iconTheme": "material-icon-theme",
   "workbench.colorTheme": "Andromeda",
   "workbench.editor.enablePreview": false,
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "terminal.integrated.fontSize": 20,
-  "terminal.integrated.fontWeight": null,
   "diffEditor.wordWrap": "on",
-  "bracketPairColorizer.depreciation-notice": false,
   "security.workspace.trust.untrustedFiles": "open"
+  // "files.autoSave": "afterDelay",
+  // "files.autoSaveDelay": 10,
+  
+  // Prettier Config
+  "prettier.proseWrap": "always",
+  "prettier.singleQuote": true,
+  "prettier.arrowParens": "avoid",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
 }
+
 ```
 
 ## ⚙️ VS Code Extension

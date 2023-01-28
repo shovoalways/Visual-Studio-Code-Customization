@@ -72,6 +72,7 @@ I am using Visual Studio code since 2018 and this time I created lots of project
   // Screencast Mode
   "screencastMode.onlyKeyboardShortcuts": true,
   "screencastMode.mouseIndicatorColor": "#f1c40f",
+  "screencastMode.verticalOffset": 0,
 }
 
 ```

@@ -69,6 +69,9 @@ I am using Visual Studio code since 2018 and this time I created lots of project
     "[html]": {
     "editor.defaultFormatter": "vscode.html-language-features"
   },
+  // Screencast Mode
+  "screencastMode.onlyKeyboardShortcuts": true,
+  "screencastMode.mouseIndicatorColor": "#f1c40f",
 }
 
 ```

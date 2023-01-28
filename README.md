@@ -90,6 +90,7 @@ I am using Visual Studio code since 2018 and this time I created lots of project
 - Prettier - Code formatter
 - WordPress Snippets
 - Simple React Snippets
+- Tailwind CSS IntelliSense
 
 
 ## 🎨 VS Code Themes

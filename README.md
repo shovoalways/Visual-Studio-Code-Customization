@@ -6,7 +6,6 @@ I am using Visual Studio code since 2018 and this time I created lots of project
 ## 🛠 VS Code Settings
 ```bash
   {
-  "editor.fontFamily": "Operator Mono, Fira Code",
   "editor.fontSize": 20,
   "editor.tabSize": 2,
   "editor.wordWrap": "on",
@@ -73,6 +72,11 @@ I am using Visual Studio code since 2018 and this time I created lots of project
   "screencastMode.onlyKeyboardShortcuts": true,
   "screencastMode.mouseIndicatorColor": "#f1c40f",
   "screencastMode.verticalOffset": 0,
+
+  // Enable Emmet support for JSX
+   "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+   }
 }
 
 ```

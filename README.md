@@ -106,6 +106,8 @@ I've tweaked its appearance, added and modified features, installed extensions, 
 - WordPress Snippets (wpprotools.io)
 - VSCode React Refactor (planbcoding)
 - Tailwind CSS IntelliSense (Tailwind Labs)
+- GitLens — Git supercharged (GitKraken)
+- Code Spell Checker (Street Side Software)
 
 
 ## 🎨 VS Code Themes

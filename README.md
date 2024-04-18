@@ -58,7 +58,7 @@ I've tweaked its appearance, added and modified features, installed extensions, 
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "terminal.integrated.fontSize": 20,
   "diffEditor.wordWrap": "on",
-  "security.workspace.trust.untrustedFiles": "open"
+  "security.workspace.trust.untrustedFiles": "open",
   // "files.autoSave": "afterDelay",
   // "files.autoSaveDelay": 10,
   
